@@ -1,0 +1,6 @@
+*wallet.json
+node_modules
+yarn.lock
+
+dev-wallet.json
+generug.png
